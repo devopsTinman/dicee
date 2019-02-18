@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  dicee
+//  Magic 8 Ball
 //
-//  Created by Allbee, Eamon on 2/15/19.
+//  Created by Allbee, Eamon on 2/18/19.
 //  Copyright © 2019 Allbee, Eamon. All rights reserved.
 //
 
